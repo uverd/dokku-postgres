@@ -1,4 +1,4 @@
-# dokku postgres [![Build Status](https://img.shields.io/github/workflow/status/dokku/dokku-postgres/CI/master?style=flat-square "Build Status")](https://github.com/dokku/dokku-postgres/actions/workflows/ci.yml?query=branch%3Amaster) [![IRC Network](https://img.shields.io/badge/irc-libera-blue.svg?style=flat-square "IRC Libera")](https://webchat.libera.chat/?channels=dokku)
+# dokku postgres Timescaledb [![Build Status](https://img.shields.io/github/workflow/status/dokku/dokku-postgres/CI/master?style=flat-square "Build Status")](https://github.com/dokku/dokku-postgres/actions/workflows/ci.yml?query=branch%3Amaster) [![IRC Network](https://img.shields.io/badge/irc-libera-blue.svg?style=flat-square "IRC Libera")](https://webchat.libera.chat/?channels=dokku)
 
 Official postgres plugin for dokku. Currently defaults to installing [timescaledb latest14](https://hub.docker.com/r/timescale/timescaledb).
 

@@ -1,1 +1,1 @@
-FROM postgres:14.5
+FROM timescale/timescaledb:latest-pg14
